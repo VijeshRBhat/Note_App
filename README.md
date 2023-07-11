@@ -1,2 +1,3 @@
 Notes App created using MERN stack.
-Clone the Repo on your device and run 'npm start' in both the backend and the main folder to access the website
+At this point, the website isn't deployed yet.
+The backend runs in localhost:4000 and react app in localhost:3000
